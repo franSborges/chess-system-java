@@ -1,6 +1,6 @@
-package chess;
+package app.program.chess;
 
-import boardgame.Position;
+import app.program.boardgame.Position;
 
 public class ChessPosition {
 

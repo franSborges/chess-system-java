@@ -1,8 +1,8 @@
-package chess.pieces;
+package app.program.chess.pieces;
 
-import boardgame.Board;
-import chess.ChessPiece;
-import chess.Color;
+import app.program.boardgame.Board;
+import app.program.chess.ChessPiece;
+import app.program.chess.Color;
 
 public class Rook extends ChessPiece {
 

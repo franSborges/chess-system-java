@@ -1,4 +1,4 @@
-package boardgame;
+package app.program.boardgame;
 
 public class Piece {
     protected Position position;

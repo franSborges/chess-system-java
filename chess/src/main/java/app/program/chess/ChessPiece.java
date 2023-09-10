@@ -3,7 +3,7 @@ package app.program.chess;
 import app.program.boardgame.Board;
 import app.program.boardgame.Piece;
 
-public class ChessPiece extends Piece {
+public abstract class ChessPiece extends Piece {
 
     private Color color;
 

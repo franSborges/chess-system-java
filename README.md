@@ -44,7 +44,3 @@ Este é um projeto de jogo de xadrez em Java que foi desenvolvido como parte de 
 ## Contribuição
 
 Sinta-se à vontade para contribuir para este projeto aberto. Você pode reportar problemas, propor melhorias e enviar solicitações de pull.
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.

@@ -18,19 +18,20 @@ Este é um projeto de jogo de xadrez em Java que foi desenvolvido como parte de 
    ```
    git clone https://github.com/seu-usuario/seu-projeto-xadrez-java.git
    ```
+   
+2. Rode o projeto usando a IDE IntelliJ IDEA Community ou VS Code
 
-2. Compile e execute o jogo a partir da linha de comando.
-
+   Ou
+   
+4. Compile e execute o jogo a partir da linha de comando.
+   
    ```
    cd seu-projeto-xadrez-java
    javac Main.java
    java Main
    ```
-   Ou
-
-   2.1 Rode o projeto usando a IDE IntelliJ IDEA Community ou VS Code
-
-4. Siga as instruções no console para jogar. Use as coordenadas no formato "linha-coluna" para fazer seus movimentos (por exemplo, "e2 e4" move um peão branco).
+   
+5. Siga as instruções no console para jogar. Use as coordenadas no formato "linha-coluna" para fazer seus movimentos (por exemplo, "e2 e4" move um peão branco).
 
 ## Capturas de Tela
 

@@ -26,13 +26,15 @@ Este é um projeto de jogo de xadrez em Java que foi desenvolvido como parte de 
    javac Main.java
    java Main
    ```
+   Ou
 
-3. Siga as instruções no console para jogar. Use as coordenadas no formato "linha-coluna" para fazer seus movimentos (por exemplo, "e2 e4" move um peão branco).
+   2.1 Rode o projeto usando a IDE IntelliJ IDEA Community ou VS Code
+
+4. Siga as instruções no console para jogar. Use as coordenadas no formato "linha-coluna" para fazer seus movimentos (por exemplo, "e2 e4" move um peão branco).
 
 ## Capturas de Tela
 
-![Captura de Tela 1](screenshots/screenshot1.png)
-![Captura de Tela 2](screenshots/screenshot2.png)
+![Captura de Tela 1](https://github.com/franSborges/chess-system-java/blob/main/chess/Captura%20de%20tela%202023-10-06%20155528.png)
 
 ## Estrutura do Projeto
 

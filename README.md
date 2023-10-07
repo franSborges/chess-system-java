@@ -35,7 +35,7 @@ Este é um projeto de jogo de xadrez em Java que foi desenvolvido como parte de 
 
 ## Capturas de Tela
 
-![Captura de Tela 1](https://github.com/franSborges/chess-system-java/blob/main/chess/Captura%20de%20tela%202023-10-06%20155528.png)
+![Captura de Tela 1](https://github.com/franSborges/chess-system-java/blob/main/assets/Captura%20de%20tela%202023-10-06%20155528.png)
 
 
 ![Texto alternativo](https://github.com/franSborges/chess-systemjava/blob/main/assets/Untitled%20%E2%80%91%20Made%20with%20FlexClip.gif)

@@ -40,7 +40,7 @@ Este é um projeto de jogo de xadrez em Java que foi desenvolvido como parte de 
 ![Texto alternativo](https://github.com/franSborges/chess-systemjava/blob/main/assets/Untitled%20%E2%80%91%20Made%20with%20FlexClip.gif)
 
 <p align = "center">
-  <img min-width = "1000" height = "420" src = "assets/Untitled - Made with FlexClip.gif">
+  <img min-width = "1000" height = "420" src = "assets/Untitled ‑ Made with FlexClip.gif">
 </p>
 
 
